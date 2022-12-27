@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Aziende_produzione_videogiochi>
+<Nome azienda1 = "children">
+<Nome_azienda1>Tencent</Nome_azienda1>
+<Origine_azienda1>Cina</Origine_azienda1>
+<Valore mercato="considerando anche gli altri investimenti" >571 miliardi di USD</Valore>
+<Fatturato_videogiochi>29 miliardi di USD</Fatturato_videogiochi>
+<Gioco1>
+<Titolo_gioco>League of Legends</Titolo_gioco>
+<Genere>moba</Genere>
+<Sviluppatori>Riot Games</Sviluppatori>
+</Gioco1>
+<Gioco2>
+<Titolo_gioco>Back 4 Blood</Titolo_gioco>
+<Genere>Sparatutto in prima persona</Genere>
+<Sviluppatori>Turtle Rock Studios</Sviluppatori>
+</Gioco2>
+<Gioco3>
+<Titolo_gioco>Call of Duty Mobile</Titolo_gioco>
+<Genere>Sparatutto e battle royal</Genere>
+<Sviluppatori> Activision, Timi Studio Group, Tencent Games</Sviluppatori>
+</Gioco3>
+<Gioco4>
+<Titolo_gioco>Vermintide</Titolo_gioco>
+<Genere>Azione in prima persona</Genere>
+<Sviluppatori>Fatshark</Sviluppatori>
+</Gioco4>
+</Nome>
+<Nome azienda2 ="children">
+<Nome_azienda2>Play Station</Nome_azienda2>
+<Origine_azienda2>Giappone</Origine_azienda2>
+<Valore mercato="considerando anche gli altri investimenti" >128 miliardi di USD</Valore>
+<Fatturato_videogiochi>23,2 miliardi di USD</Fatturato_videogiochi>
+<Gioco1>
+<Titolo_gioco>God of War</Titolo_gioco>
+<Genere>Azione ed avventura</Genere>
+<Sviluppatori> Santa Monica Studio, Ready at Dawn, Javaground, Sony Online Entertainment, Jetpack Interactive</Sviluppatori>
+</Gioco1>
+<Gioco2>
+<Titolo_gioco>The Last of Us</Titolo_gioco>
+<Genere>Azione ed avventura</Genere>
+<Sviluppatori>Naughty Dog</Sviluppatori>
+</Gioco2>
+<Gioco3>
+<Titolo_gioco>Spider-Man</Titolo_gioco>
+<Genere>Azione ed avventura</Genere>
+<Sviluppatori> Insomniac Games, Nixxes Software, Camouflaj</Sviluppatori>
+</Gioco3>
+<Gioco4>
+<Titolo_gioco>Grand Turismo</Titolo_gioco>
+<Genere>Simulatore di giuda</Genere>
+<Sviluppatori>Polyphony Digital</Sviluppatori>
+</Gioco4>
+</Nome>
+<!-- in questo file ci sono le due aziende più importanti nello sviluppo di giochi per console, assieme ai giochi più venduti per console -->
+</Aziende_produzione_videogiochi>
+
