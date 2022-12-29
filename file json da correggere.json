@@ -18,8 +18,8 @@
   "test_runner": {
     "average_run_time": 2.3
   },
-  "exercises":{
-  "concept":[
+  "exercises":"concept"
+  {"concept":[
         "slug": "lucians-luscious-lasagna",
         "name": "Lucian's Luscious Lasagna",
         "uuid": "7d358894-4fbd-4c91-b49f-d68f1c5aa6bc",
